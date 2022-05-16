@@ -8,11 +8,11 @@ The agenda for each meeting is tracked with GitHub issues. Please use GitHub iss
 
 
 ## Guidelines for CHIPS discussion:
-The CHIP should be published and in draft status for at least two weeks before scheduling the meeting to give the community ample time to comprehend the proposal. 
-The agenda of the CHIPS meeting should only focus on the CHIPS proposals, and it should include two main items: 
-CHIP Author to present the CHIP
-Community feedback and discussion
-The CHIP author should take notes and incorporate feedback from the meeting into the CHIP. 
+- The CHIP should be published and in draft status for at least two weeks before scheduling the meeting to give the community ample time to comprehend the proposal. 
+- The agenda of the CHIPS meeting should only focus on the CHIPS proposals, and it should include two main items: 
+-- CHIP Author to present the CHIP
+-- Community feedback and discussion
+- The CHIP author is responsible fore taking notes and incorporating feedback from the meeting into the respective CHIP. 
 
 
 # Facilitation: 
