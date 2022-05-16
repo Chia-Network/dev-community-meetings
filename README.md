@@ -1,10 +1,12 @@
 
 # Purpose:
 
-The Chia Dwv Community meetings provide a forum for the developer community to gather and discuss various technical topics, including CHIPS proposals. The meetings also provide a platform for the community to support each other in building a secure, sustainable, and compliant blockchain technology. 
+The Chia Dev Community meetings provide a forum for the developer community to gather and discuss various technical topics, including CHIPS proposals. The meetings also provide a platform for the community to support each other in building a secure, sustainable, and compliant blockchain technology. 
 
 # Agenda: 
-The agenda for each meeting is tracked with GitHub issues. Please use GitHub issues to propose new sessions or suggest agenda items for scheduled meetings. Planned or scheduled meeting will be listed on the [meeting list project](https://github.com/Chia-Network/dev-community-meetings/projects/1).
+- The agenda for each meeting is tracked with GitHub issues. 
+- Please use GitHub issues to propose new sessions or suggest agenda items for scheduled meetings. 
+- Planned or scheduled meeting will be listed on the [meeting list project](https://github.com/Chia-Network/dev-community-meetings/projects/1).
 
 
 ## Guidelines for CHIPS discussion:
@@ -16,7 +18,7 @@ The agenda for each meeting is tracked with GitHub issues. Please use GitHub iss
 
 
 # Facilitation: 
-Chia DevRel team facilitates the meeting.
+- Chia DevRel team helps facilitate the meetings. 
 
 
 
